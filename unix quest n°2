@@ -1,0 +1,160 @@
+**********************Find****************
+
+adn@Ubuntu-adrien:~/quests/shell$ find
+.
+./planets.zip
+./planets
+./planets/real
+./planets/real/terrestrial
+./planets/real/terrestrial/venus.jpeg
+./planets/real/terrestrial/earth.jpeg
+./planets/real/terrestrial/mercury.jpeg
+./planets/real/terrestrial/mars.jpeg
+./planets/real/gas-giants
+./planets/real/gas-giants/jupiter.jpeg
+./planets/real/gas-giants/uranus.jpeg
+./planets/real/gas-giants/neptune.jpeg
+./planets/real/gas-giants/saturn.jpeg
+./planets/fictional
+./planets/fictional/cybertron.jpeg
+./planets/fictional/arrakis.jpeg
+./planets/fictional/coruscant.jpeg
+./planets/inhabited
+./planets/inhabited/fictional
+./planets/inhabited/fictional/cybertron.jpeg
+./planets/inhabited/fictional/arrakis.jpeg
+./planets/inhabited/fictional/coruscant.jpeg
+
+***************history************
+
+mkdir quests
+   59  ls
+   60  cd quests
+   61  mkdir shell
+   62  ls
+   63  ..
+   64  cd
+   65  ls
+   66  ls quests
+   67  cd shell
+   68  cd ./Shell
+   69  cd quest
+   70  cd quests 
+   71  cd shell
+   72  curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+   73  unzip planets.zip
+   74  ls
+   75  cd
+   76  ls
+   77  cd quests
+   78  ls
+   79  cd shell
+   80  ls
+   81  cd planets
+   82  ls
+   83  mkdir real
+   84  mkdir fictional
+   85  mk dir inhabited
+   86  mkdir inhabited
+   87  ls
+   88  cd real
+   89  mkdir terrestrial
+   90  mkdir gas-giants /dwarf-planets 
+   91  sudo mkdir gas-giants /dwarf-planets 
+   92  ls
+   93  mkdir dwrf-planets
+   94  ls
+   95  clear
+   96  cd
+   97  ls
+   98  cd quest/shell
+   99  cd quests/shell
+  100  ls
+  101  cd planets
+  102  ls
+  103  mv real/ earth.jpeg
+  104  mv real earth.jpeg
+  105  mv earth.jpeg / real
+  106  mv "earth.jpeg" /real
+  107  mv "earth.jpeg" / real
+  108  cd
+  109  cd quests/shell/planets
+  110  ls
+  111  mv "earth.jpeg" "mars.jpeg" /~Ubuntu-adrien/quests/shell/planets/real
+  112  mv "earth.jpeg" "mars.jpeg" /Ubuntu-adrien/quests/shell/planets/real
+  113  mv "earth.jpeg" "mars.jpeg" /Ubuntu-adrien/quests/shell/planets/
+  114  mv "earth.jpeg" "mars.jpeg" /Ubuntu-adrien/quests/shell/planets
+  115  mv mars.jpeg /Ubuntu-adrien/quests/shell/planets/real
+  116  mv mars.jpeg $/Ubuntu-adrien/quests/shell/planets/real
+  117  mv mars.jpeg $/Ubuntu-adrien/quest/shell
+  118  ls
+  119  mv mars.jpeg real/terrestrial
+  120  ls
+  121  cls
+  122  clear
+  123  ls
+  124  mv earth.jpeg venus.jpeg mercury.jpeg mars.jpeg real/terrestrial
+  125  ls
+  126  cd real
+  127  cd terrestrial
+  128  ls
+  129  ce
+  130  cd
+  131  cd quests/shell/planets
+  132  ls
+  133  mv jupiter.jpeg saturn.jpeg uranus.jpeg neptune.jpeg real/gas-giants
+  134  ls
+  135  mv pluto.jpeg real/dwarf-planets
+  136  ls
+  137  mv arrakis.jpeg coruscant.jpeg cybertron.jpeg fictional/
+  138  ls
+  139  ls real
+  140  mv pluton.jpeg real/dwrf-planets
+  141  cd real
+  142  mv pluton.jpeg dwrf-planets/
+  143  cd..
+  144  cd
+  145  cd quests
+  146  cd shell/planets
+  147  ls
+  148  cd fictionl
+  149  cd fictional
+  150  cp arrakis.jpeg coruscant.jpeg cybertron.jpeg $/quests/shell/planets/inhabited/
+  151  cp arrakis.jpeg coruscant.jpeg cybertron.jpeg $/quests/shell/planets/inhabited
+  152* cp arrakis.jpeg coruscant.jpeg cybertron.jpeg planets/inhabite
+  153  cp arrakis.jpeg coruscant.jpeg cybertron.jpeg planets/inhabited/
+  154  cp /fictional/"arrakis.jpeg" "coruscant.jpeg" "cybertron.jpeg" planets/inhabited 
+  155  cp /fictional/"arrakis.jpeg" "coruscant.jpeg" "cybertron.jpeg" /inhabited 
+  156  cp /fictional/"arrakis.jpeg" /inhabited
+  157  cd.
+  158  cd ..
+  159  /fictional/arrakis.jpeg /planets/inhabited
+  160  /fictional/arrakis.jpeg /inhabited
+  161  ls
+  162  cd fictional 
+  163  ls
+  164  cp arrakis.jpeg /inhabited
+  165  cp fictional/ arrakis.jpeg /inhabited
+  166  cp -r fictional /inhabited 
+  167  cd..
+  168  cd ..
+  169  cp -r fictional /inhabited
+  170  cp -r fictional inhabited
+  171  ls
+  172  cd real
+  173  cd dwarf-planets
+  174  cd ..
+  175  rm dwarf-planets
+  176  rm-r dwarf-planets
+  177  rm -r dwarf-planets
+  178  ls
+  179  cd 
+  180  find
+  181  clear
+  182  find
+  183  cd quests/shell/planets
+  184  find
+  185  cd shell
+  186  cd ..
+  187  find
+
