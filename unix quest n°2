@@ -1,8 +1,7 @@
 **********************Find****************
 
-adn@Ubuntu-adrien:~/quests/shell$ find
+adn@Ubuntu-adrien:~/quests$ find
 .
-./planets.zip
 ./planets
 ./planets/real
 ./planets/real/terrestrial
@@ -10,20 +9,21 @@ adn@Ubuntu-adrien:~/quests/shell$ find
 ./planets/real/terrestrial/earth.jpeg
 ./planets/real/terrestrial/mercury.jpeg
 ./planets/real/terrestrial/mars.jpeg
-./planets/real/gas-giants
-./planets/real/gas-giants/jupiter.jpeg
-./planets/real/gas-giants/uranus.jpeg
-./planets/real/gas-giants/neptune.jpeg
-./planets/real/gas-giants/saturn.jpeg
+./planets/real/gaz-giants
+./planets/real/gaz-giants/jupiter.jpeg
+./planets/real/gaz-giants/uranus.jpeg
+./planets/real/gaz-giants/neptune.jpeg
+./planets/real/gaz-giants/saturn.jpeg
 ./planets/fictional
 ./planets/fictional/cybertron.jpeg
 ./planets/fictional/arrakis.jpeg
 ./planets/fictional/coruscant.jpeg
 ./planets/inhabited
-./planets/inhabited/fictional
-./planets/inhabited/fictional/cybertron.jpeg
-./planets/inhabited/fictional/arrakis.jpeg
-./planets/inhabited/fictional/coruscant.jpeg
+./planets/inhabited/cybertron.jpeg
+./planets/inhabited/earth.jpeg
+./planets/inhabited/coruscant.jpeg
+./planets/inhabited/mars.jpeg
+
 
 ***************history************
 
